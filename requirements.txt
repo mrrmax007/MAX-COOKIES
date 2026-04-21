@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.14.0
+instaloader==4.11
+pyotp==2.9.0
+requests
